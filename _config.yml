@@ -1,2 +1,4 @@
 remote_theme: facciocose/common-theme
 title: Faccio Cose
+
+theme: jekyll-theme-minimal
