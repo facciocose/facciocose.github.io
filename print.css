@@ -12,3 +12,11 @@ a {
 p {
     margin: 0.85em;
 }
+
+h2 {
+    margin-top: 0;
+}
+
+.last-updated {
+    margin-bottom: 0;
+}
