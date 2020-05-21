@@ -16,6 +16,14 @@ a {
     text-decoration: none;
 }
 
+::selection {
+    background: #d3ebdf; /* WebKit/Blink Browsers */
+}
+
+::-moz-selection {
+    background: #d3ebdf; /* Gecko Browsers */
+}
+
 a:hover {
     text-decoration: underline;
 }
